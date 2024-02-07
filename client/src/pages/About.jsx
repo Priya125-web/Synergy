@@ -16,7 +16,7 @@ export default function About() {
           <span className="lg:text-xl text-white">Blogs&Books</span>
         </div>
 
-        <div className="flex flex-col my-12 bg-slate-900 border border-slate-400 w-[80%] rounded-md shadow-lg backdrop-filter backdrop-blur-sm bg-opacity-70 relative lg:items-center mx-auto">
+        <div className="flex flex-col my-12 bg-slate-900 border border-slate-400 h-[60vh] w-[65%] rounded-md shadow-lg backdrop-filter backdrop-blur-sm bg-opacity-70 relative lg:items-center mx-auto">
           <div className="p-12 sm:h-[50vh] overflow-hidden overflow-y-scroll">
             <p className="mx-5 mt-5 lg:mx-12 text-center text-gray-300">
               Welcome to Synergy Blogs&Books !! This content management site is

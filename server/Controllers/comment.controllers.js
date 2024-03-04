@@ -1,7 +1,6 @@
 import Comment from '../Models/comment.model.js';
 import { errorHandler } from '../utils/error.js';
 
-
 export const createComment = async (req, res, next) => {
   try {
     const { content, postId, userId } = req.body;
